@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/RAMPART.svg" alt="RAMPART Logo" width="300"/>
+  <img src="https://github.com/microsoft/RAMPART/raw/main/docs/images/RAMPART.svg" alt="RAMPART Logo" width="300"/>
 </p>
 
 <h1 align="center">RAMPART</h1>
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://scorecard.dev/viewer/?uri=github.com/microsoft/RAMPART"><img src="https://api.securityscorecards.dev/projects/github.com/microsoft/RAMPART/badge" alt="OpenSSF Scorecard"></a> <!-- Will enable once the repository is public -->
-  <a href="https://github.com/microsoft/RAMPART/actions/workflows/ci.yml"><img src="https://github.com/microsoft/RAMPART/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <!-- <a href="https://pypi.org/project/RAMPART_PYPI_PKG_NAME_TBD/"><img src="https://img.shields.io/pypi/v/RAMPART_PYPI_PKG_NAME_TBD" alt="PyPI"></a> -->
-  <!-- <a href="https://pypi.org/project/RAMPART_PYPI_PKG_NAME_TBD/"><img src="https://img.shields.io/pypi/pyversions/RAMPART_PYPI_PKG_NAME_TBD" alt="Python versions"></a> -->
-  <!-- <a href="https://pypi.org/project/RAMPART_PYPI_PKG_NAME_TBD/"><img src="https://img.shields.io/pypi/l/RAMPART_PYPI_PKG_NAME_TBD" alt="License"></a> -->
+  <a href="https://scorecard.dev/viewer/?uri=github.com/microsoft/RAMPART"><img src="https://api.securityscorecards.dev/projects/github.com/microsoft/RAMPART/badge" alt="OpenSSF Scorecard"></a>
+  <a href="https://github.com/microsoft/RAMPART/actions/workflows/ci.yml"><img src="https://github.com/microsoft/RAMPART/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI"></a>
+  <a href="https://pypi.org/project/RAMPART/"><img src="https://img.shields.io/pypi/v/RAMPART" alt="PyPI"></a>
+  <a href="https://pypi.org/project/RAMPART/"><img src="https://img.shields.io/pypi/pyversions/RAMPART" alt="Python versions"></a>
+  <a href="https://pypi.org/project/RAMPART/"><img src="https://img.shields.io/pypi/l/RAMPART" alt="License"></a>
 </p>
 
 ---
